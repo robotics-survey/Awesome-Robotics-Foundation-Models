@@ -39,9 +39,6 @@ Mac Schwager
 
 If you find this repository helpful, please consider citing:
 
-```bibtex
-
-```
 ## Robotics
 
 ### Robot Policy Learning for Decision making and Controls
