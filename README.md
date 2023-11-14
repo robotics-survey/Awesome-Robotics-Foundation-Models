@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models/blob/main/survey_tree.png)
 
-This repository is foundation models that have been applied to robotics or are relevant to robotics in some way.
+This is the partner repository for the survey paper "Foundation Models in Robotics: Applications, Challenges, and the Future". The authors hope this repository can act as a quick reference for roboticists who wish to read the relevant papers and implement the associated methods. The organization of this readme follows Figure 1 in the paper (shown above) and is thus divided into foundation models that have been applied to robotics and those that are relevant to robotics in some way.
 
 We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute!
 
