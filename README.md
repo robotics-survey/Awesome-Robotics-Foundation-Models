@@ -2,7 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[!Alt text](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models/blob/main/survey_tree.png)
+![alt text](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models/blob/main/survey_tree.png)
+
 This repository is foundation models that have been applied to robotics or are relevant to robotics in some way.
 
 We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute!
