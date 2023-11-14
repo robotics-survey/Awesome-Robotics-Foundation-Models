@@ -10,8 +10,9 @@ We welcome contributions to this repository to add more resources. Please submit
 
 - [Survey](#survey)
 - [Robotics](#robotics)
-- [Robot Policy Learning](#language-conditioned-imitation-learning)
-- [Relevant to Robotics](#large-vision-models)
+- [Robot Policy Learning](#robot-policy-learning)
+- [Relevant to Robotics](#relevant-to-robotics)
+- 
 
 ## Survey
 
@@ -41,3 +42,34 @@ If you find this repository helpful, please consider citing:
 ```bibtex
 
 ```
+## Robotics
+
+### Robot Policy Learning for Decision making and Controls
+
+### Language-Image Goal-Conditioned Value Learning
+
+### Robot Task Planning Using Large Language Models
+
+### In-context Learning (ICL) for Decision-Making
+
+### Robot Transformers
+
+### Open-Vocabulary Robot Navigation and Manipulation
+
+## Relevant to Robotics
+
+### Open-Vocabulary Object Detection and 3D Classification (Perception)
+
+### Open-Vocabulary Semantic Segmentation (Perception)
+
+### Open-Vocabulary 3D Scene Representations (Perception)
+
+### Open-Vocabulary Object Representations (Perception)
+
+### Affordance Information (Perception)
+
+### Predictive Models (Perception)
+
+### Generalist Ai (Embodied AI)
+
+### Simulators (Embodied AI)
