@@ -25,7 +25,8 @@ We welcome contributions to this repository to add more resources. Please submit
 - [Predictive Models](predictive-models)
 - [Generalist AI](generalist-AI)
 - [Simulators](simulators)
-- 
+
+
 ## Survey
 
 This repository is largely based on the following paper:
