@@ -73,6 +73,8 @@ If you find this repository helpful, please consider citing:
 * SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691)[[Project]](https://say-can.github.io/)[[Code]](https://github.com/google-research/google-research/tree/master/saycan)
 * Zero-Shot Reward Specification via Grounded Natural Language[[Paper]](https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf)
 * VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models[[Project]](https://voxposer.github.io)
+* VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training [[Paper]](https://arxiv.org/abs/2210.00030)[[Project]](https://sites.google.com/view/vip-rl)
+* 
 * 
 * VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
 * Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
