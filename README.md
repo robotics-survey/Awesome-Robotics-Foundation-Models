@@ -106,7 +106,7 @@ If you find this repository helpful, please consider citing:
 * L3MVN: Leveraging Large Language Models for Visual Target Navigation [[Project]](https://arxiv.org/abs/2304.05501)
 * Open-World Object Manipulation using Pre-trained Vision-Language Models [[Paper]](https://robot-moo.github.io/assets/moo.pdf)[[Project]](https://robot-moo.github.io/) 
 
-## Relevant to Robotics
+## Relevant to Robotics (Perception)
 
 ### Open-Vocabulary Object Detection and 3D Classification
 *  Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]]()
@@ -123,10 +123,9 @@ If you find this repository helpful, please consider citing:
 
 ### Affordance Information
 
-
 ### Predictive Models
 
-### Embodied AI
+## Relevant to Robotics (Embodied AI) 
 
 * Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)[[Code]](https://github.com/MineDojo/Voyager)
 * Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory [[Paper]](https://arxiv.org/abs/2305.17144)[[Code]]()
