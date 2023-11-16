@@ -109,7 +109,10 @@ If you find this repository helpful, please consider citing:
 ## Relevant to Robotics (Perception)
 
 ### Open-Vocabulary Object Detection and 3D Classification
-*  Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]]()
+* Simple Open-Vocabulary Object Detection with Vision Transformers [[Paper]](https://arxiv.org/pdf/2205.06230.pdf)[[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
+*  Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]](https://github.com/microsoft/GLIP)
+*  Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[Paper]](https://arxiv.org/abs/2303.05499)[[Code]](https://github.com/IDEA-Research/GroundingDINO)
+*  PointCLIP: Point Cloud Understanding by CLIP [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf)[[Code]](https://github.com/ZrrSkywalker/PointCLIP)
 
 ### Open-Vocabulary Semantic Segmentation
 * Language-driven Semantic Segmentation [[Paper]](https://arxiv.org/abs/2201.03546)[[Code]]()
