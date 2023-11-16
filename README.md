@@ -93,6 +93,8 @@ If you find this repository helpful, please consider citing:
 *  Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]]()
 
 ### Open-Vocabulary Semantic Segmentation
+* Language-driven Semantic Segmentation [[Paper]](https://arxiv.org/abs/2201.03546)[[Code]]()
+* Emerging Properties in Self-Supervised Vision Transformers [[Paper]](https://arxiv.org/abs/2104.14294)[[Code]](https://github.com/facebookresearch/dino)
 
 ### Open-Vocabulary 3D Scene Representations
 * LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
@@ -101,6 +103,7 @@ If you find this repository helpful, please consider citing:
 ### Open-Vocabulary Object Representations
 
 ### Affordance Information
+
 
 ### Predictive Models
 
