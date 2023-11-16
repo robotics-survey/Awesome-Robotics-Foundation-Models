@@ -124,22 +124,29 @@ If you find this repository helpful, please consider citing:
 * Fast segment anything [[Paper]](https://arxiv.org/abs/2306.12156)[[Code]](https://github.com/CASIA-IVA-Lab/FastSAM)
 * Faster Segment Anything: Towards Lightweight SAM for Mobile Applications [[Paper]](https://arxiv.org/abs/2306.14289)[[Code]](https://github.com/ChaoningZhang/MobileSAM)
 * Track anything: Segment anything meets videos [[Paper]](https://arxiv.org/abs/2304.11968)[[Code]](https://github.com/gaomingqi/Track-Anything)
-* Clip-NeRF: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
-### Open-Vocabulary 3D Scene Representations
-* LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
 
+### Open-Vocabulary 3D Scene Representations
+* Clip-NeRF: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
+* LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
+* Decomposing nerf for editing via feature field distillation [[Paper]](https://arxiv.org/abs/2205.15585)[[Project]](https://pfnet-research.github.io/distilled-feature-fields)
 
 ### Open-Vocabulary Object Representations
 
 ### Affordance Information
+* Affordance Diffusion: Synthesizing Hand-Object Interactions [[Paper]](https://arxiv.org/abs/2303.12538)[[Project]](https://judyye.github.io/affordiffusion-www/)
+* Affordances from Human Videos as a Versatile Representation for Robotics [[Paper]](https://arxiv.org/abs/2304.08488)[[Project]](https://robo-affordances.github.io/)
 
 ### Predictive Models
 
 ## Relevant to Robotics (Embodied AI) 
-
+* Inner Monologue: Embodied Reasoning through Planning with Language Models [[Paper]](https://arxiv.org/abs/2207.05608)[[Project]](https://innermonologue.github.io/)
+* Statler: State-Maintaining Language Models for Embodied Reasoning [[Paper]](https://arxiv.org/abs/2306.17840)[[Project]](https://statler-lm.github.io/)
+* EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Paper]](https://arxiv.org/pdf/2305.15021.pdf)[[Project]](https://embodiedgpt.github.io/)
+* MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge [[Paper]](https://openreview.net/forum?id=rc8o_j8I8PX)[[Code]](https://github.com/MineDojo/MineDojo)
+* Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos [[Paper]](https://arxiv.org/abs/2206.11795)
 * Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)[[Code]](https://github.com/MineDojo/Voyager)
-* Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory [[Paper]](https://arxiv.org/abs/2305.17144)[[Code]]()
-* EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Paper]](https://arxiv.org/abs/2305.15021)[[Project]](https://embodiedgpt.github.io/)
+* Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory [[Paper]](https://arxiv.org/abs/2305.17144)[[Project]](https://github.com/OpenGVLab/GITM)
+
 
 ### Generalist AI
 
