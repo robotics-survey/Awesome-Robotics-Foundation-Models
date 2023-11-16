@@ -108,12 +108,12 @@ If you find this repository helpful, please consider citing:
 
 ### Predictive Models
 
-### Embodied Ai
+### Embodied AI
 
 * Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)[[Code]](https://github.com/MineDojo/Voyager)
 * Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory [[Paper]](https://arxiv.org/abs/2305.17144)[[Code]]()
-* * EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Paper]](https://arxiv.org/abs/2305.15021)[[Project]](https://embodiedgpt.github.io/)
+* EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Paper]](https://arxiv.org/abs/2305.15021)[[Project]](https://embodiedgpt.github.io/)
 
-### Generalist Ai
+### Generalist AI
 
 ### Simulators
