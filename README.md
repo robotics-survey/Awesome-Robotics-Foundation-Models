@@ -56,8 +56,8 @@ If you find this repository helpful, please consider citing:
 
 ## Robotics
 
-### Robot Policy Learning for Decision Making and Controls
-## Language-Conditioned Imitation Leraning
+### Robot Policy Learning for Decision-Making and Controls
+#### Language-Conditioned Imitation Learning
 
 
 
