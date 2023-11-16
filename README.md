@@ -71,15 +71,17 @@ If you find this repository helpful, please consider citing:
 ### Language-Image Goal-Conditioned Value Learning
 
 * SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691)[[Project]](https://say-can.github.io/)[[Code]](https://github.com/google-research/google-research/tree/master/saycan)
-* Zero-Shot Reward Specification via Grounded Natural Language[[Paper]](https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf)
-* VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models[[Project]](https://voxposer.github.io)
+* Zero-Shot Reward Specification via Grounded Natural Language [[Paper]](https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf)
+* VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [[Project]](https://voxposer.github.io)
 * VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training [[Paper]](https://arxiv.org/abs/2210.00030)[[Project]](https://sites.google.com/view/vip-rl)
-* LIV: Language-Image Representations and Rewards for Robotic Control[[Paper]](https://arxiv.org/abs/2306.00958)[[Project]](https://penn-pal-lab.github.io/LIV/)
-* LOReL: Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation[[Paper]](https://arxiv.org/abs/2109.01115)[[Project]](https://sites.google.com/view/robotlorel)
+* LIV: Language-Image Representations and Rewards for Robotic Control [[Paper]](https://arxiv.org/abs/2306.00958)[[Project]](https://penn-pal-lab.github.io/LIV/)
+* LOReL: Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation [[Paper]](https://arxiv.org/abs/2109.01115)[[Project]](https://sites.google.com/view/robotlorel)
 
 ### Robot Task Planning Using Large Language Models
-
+* Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/abs/2201.07207)[[Project]](https://wenlong.page/language-planner/)
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
+* AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers[[Paper]](https://arxiv.org/abs/2306.06531)[[Project]](https://yongchao98.github.io/MIT-REALM-AutoTAMP/)
+* LATTE: LAnguage Trajectory TransformEr [[Paper]](https://arxiv.org/abs/2208.02918)[[Code]](https://github.com/arthurfenderbucker/LaTTe-Language-Trajectory-TransformEr)
 
 ### LLM-Based Code Generation
 * Paper: ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/) 
