@@ -62,9 +62,12 @@ If you find this repository helpful, please consider citing:
 * Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2209.05451)[[Project]](https://peract.github.io/)[[Code]](https://github.com/peract/peract)
 * Play-LMP: Learning Latent Plans from Play [[Project]](https://learning-from-play.github.io/)
 * Multi-Context Imitation: Language-Conditioned Imitation Learning over Unstructured Data [[Project]](https://language-play.github.io)
-*
-*
-* (https://language-play.github.io)
+#### Language-Assisted Reinforcement Learning
+* Towards A Unified Agent with Foundation Models [[Paper]] (https://arxiv.org/abs/2307.09668)
+* Reward Design with Language Models [[Paper]](https://arxiv.org/abs/2303.00001)
+* Learning to generate better than your llm [[Paper]](https://arxiv.org/pdf/2306.11816.pdf)[[Code]](https://github.com/Cornell-RL/tril)
+* Guiding Pretraining in Reinforcement Learning with Large Language Models [[Paper]](https://arxiv.org/abs/2302.06692)[[Code]]((https://github.com/yuqingd/ellm)
+
 
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
 
