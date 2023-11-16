@@ -60,8 +60,8 @@ If you find this repository helpful, please consider citing:
 #### Language-Conditioned Imitation Learning
 * CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098)[[Project]](https://cliport.github.io/)[[Code]](https://github.com/cliport/cliport)
 * Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2209.05451)[[Project]](https://peract.github.io/)[[Code]](https://github.com/peract/peract)
-* Play-LMP [[Project]](https://learning-from-play.github.io/)
-Multi-Context Imitation [26]
+* Play-LMP: Learning Latent Plans from Play [[Project]](https://learning-from-play.github.io/)
+* Multi-Context Imitation: Language-Conditioned Imitation Learning over Unstructured Data [[Project]] (https://language-play.github.io/)
 
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
 
