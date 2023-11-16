@@ -151,8 +151,18 @@ If you find this repository helpful, please consider citing:
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
 
 ### Generalist AI
+* Generative Agents: Interactive Simulacra of Human Behavior [[Paper]](https://arxiv.org/abs/2304.03442)
+* Towards Generalist Robots: A Promising Paradigm via Generative Simulation [[Paper]](https://arxiv.org/abs/2305.10455)
+* A generalist agent [[Paper]](https://arxiv.org/abs/2205.06175)
 
 ### Simulators
+* Gibson Env: real-world perception for embodied agents [[Paper]](https://arxiv.org/abs/1808.10654)
+* iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks [[Paper]](https://arxiv.org/abs/2108.03272)[[Project]](https://svl.stanford.edu/igibson/)
+* BEHAVIOR-1k: A benchmark for embodied AI with 1,000 everyday activities and realistic simulation [[Paper]](https://openreview.net/forum?id=_8DoIe8G3t)[[Project]](https://behavior.stanford.edu/behavior-1k)
+* Habitat: A Platform for Embodied AI Research [[Paper]](https://arxiv.org/abs/1904.01201)[[Project]](https://aihabitat.org/)
+* Habitat 2.0: Training home assistants to rearrange their habitat [[Paper]](https://arxiv.org/abs/2106.14405)
+* Robothor: An open simulation-to-real embodied ai platform [[Paper]](https://arxiv.org/abs/2004.06799)[[Project]](https://ai2thor.allenai.org/robothor/)
+* VirtualHome: Simulating Household Activities via Programs [[Paper]](https://arxiv.org/abs/1806.07011)
 
 * Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935)
 
