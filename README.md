@@ -82,7 +82,7 @@ If you find this repository helpful, please consider citing:
 * RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://robotics-transformer.github.io/assets/rt1.pdf)[[Project]](https://robotics-transformer.github.io/)[[Code]](https://github.com/google-research/robotics_transformer)
 
 ### Open-Vocabulary Robot Navigation and Manipulation
-
+* CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [[Paper]](https://arxiv.org/pdf/2203.10421.pdf)[[Project]](https://cow.cs.columbia.edu/)[[Code]]()
 * LSC: Language-guided Skill Coordination for Open-Vocabulary Mobile Pick-and-Place [[Paper]]()[[Project]](https://languageguidedskillcoordination.github.io/)
 * L3MVN: Leveraging Large Language Models for Visual Target Navigation [[Project]](https://arxiv.org/abs/2304.05501)
 * Open-World Object Manipulation using Pre-trained Vision-Language Models [[Paper]](https://robot-moo.github.io/assets/moo.pdf)[[Project]](https://robot-moo.github.io/) 
