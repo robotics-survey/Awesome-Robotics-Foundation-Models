@@ -69,7 +69,10 @@ If you find this repository helpful, please consider citing:
 * ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)[[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)[[Code]](https://github.com/microsoft/PromptCraft-Robotics)
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
 * Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935) 
-* ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding [[Paper(ULIP 1)]](https://arxiv.org/abs/2212.05171)[[Paper(ULIP 2)]](https://arxiv.org/abs/2305.08275)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP) 
+* ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding [[Paper(ULIP 1)]](https://arxiv.org/abs/2212.05171)[[Paper(ULIP 2)]](https://arxiv.org/abs/2305.08275)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP)
+
+### LLM-Based Code Generation
+* Paper: ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/) 
 
 ### Language-Image Goal-Conditioned Value Learning
 
