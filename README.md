@@ -90,11 +90,15 @@ If you find this repository helpful, please consider citing:
 * Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)
 * Visual Programming: Compositional visual reasoning without training [[Paper]](https://arxiv.org/abs/2211.11559)[[Project]](https://prior.allenai.org/projects/visprog)[[Code]](https://github.com/allenai/visprog)
 
-### In-context Learning for Decision-Making
-
 ### Robot Transformers
-
+* MotionGPT: Finetuned LLMs are General-Purpose Motion Generators [[Paper]](https://arxiv.org/abs/2306.10900)[[Project]](https://qiqiapink.github.io/MotionGPT/)
 * RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://robotics-transformer.github.io/assets/rt1.pdf)[[Project]](https://robotics-transformer.github.io/)[[Code]](https://github.com/google-research/robotics_transformer)
+* Masked Visual Pre-training for Motor Control [[Paper]](https://arxiv.org/abs/2203.06173)[[Project]](https://tetexiao.com/projects/mvp)[[Code]](https://github.com/ir413/mvp)
+* Real-world robot learning with masked visual pre-training [[Paper]](https://arxiv.org/abs/2210.03109)[[Project]](https://tetexiao.com/projects/real-mvp)
+* Rt-2: Vision-language-action models transfer web knowledge to robotic control [[Paper]](https://arxiv.org/abs/2307.15818)[[Project]](https://robotics-transformer2.github.io/)
+* PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training [[Paper]](https://arxiv.org/abs/2209.11133)
+
+### In-context Learning for Decision-Making
 
 ### Open-Vocabulary Robot Navigation and Manipulation
 * CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [[Paper]](https://arxiv.org/pdf/2203.10421.pdf)[[Project]](https://cow.cs.columbia.edu/)[[Code]]()
