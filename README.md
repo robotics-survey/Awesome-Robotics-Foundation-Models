@@ -84,7 +84,11 @@ If you find this repository helpful, please consider citing:
 * LATTE: LAnguage Trajectory TransformEr [[Paper]](https://arxiv.org/abs/2208.02918)[[Code]](https://github.com/arthurfenderbucker/LaTTe-Language-Trajectory-TransformEr)
 
 ### LLM-Based Code Generation
-* Paper: ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/) 
+* ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/)
+* Code as Policies: Language Model Programs for Embodied Control [[Paper]](https://arxiv.org/abs/2209.07753)[[Project]](https://code-as-policies.github.io/)
+* ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://arxiv.org/abs/2306.17582)
+* Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)
+* Visual Programming: Compositional visual reasoning without training [[Paper]](https://arxiv.org/abs/2211.11559)[[Project]](https://prior.allenai.org/projects/visprog)[[Code]](https://github.com/allenai/visprog)
 
 ### In-context Learning for Decision-Making
 
