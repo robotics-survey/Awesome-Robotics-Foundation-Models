@@ -57,7 +57,9 @@ If you find this repository helpful, please consider citing:
 ## Robotics
 
 ### Robot Policy Learning for Decision Making and Controls
+
 * Paper: Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
+* 
 * Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]]()
 * Open-World Object Manipulation using Pre-trained Vision-Language Models [[Paper]](https://robot-moo.github.io/assets/moo.pdf)[[Project]](https://robot-moo.github.io/) 
 * ConceptFusion: Open-set Multimodal 3D Mapping [[Paper]](https://concept-fusion.github.io/assets/pdf/2023-ConceptFusion.pdf)[[Project]](https://concept-fusion.github.io/)[[Code]](https://github.com/concept-fusion/concept-fusion)
