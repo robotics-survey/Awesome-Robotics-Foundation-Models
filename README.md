@@ -124,7 +124,7 @@ If you find this repository helpful, please consider citing:
 * Fast segment anything [[Paper]](https://arxiv.org/abs/2306.12156)[[Code]](https://github.com/CASIA-IVA-Lab/FastSAM)
 * Faster Segment Anything: Towards Lightweight SAM for Mobile Applications [[Paper]](https://arxiv.org/abs/2306.14289)[[Code]](https://github.com/ChaoningZhang/MobileSAM)
 * Track anything: Segment anything meets videos [[Paper]](https://arxiv.org/abs/2304.11968)[[Code]](https://github.com/gaomingqi/Track-Anything)
-* Clip-nerf: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
+* Clip-NeRF: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
 ### Open-Vocabulary 3D Scene Representations
 * LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
 
