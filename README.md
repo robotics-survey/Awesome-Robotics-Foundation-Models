@@ -115,11 +115,16 @@ If you find this repository helpful, please consider citing:
 *  PointCLIP: Point Cloud Understanding by CLIP [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf)[[Code]](https://github.com/ZrrSkywalker/PointCLIP)
 *  Point-bert: Pre-training 3d point cloud transformers with masked point modeling [[Paper]](https://arxiv.org/abs/2111.14819)[[Code]](https://github.com/lulutang0608/Point-BERT)
 *  ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding [[Paper]](https://arxiv.org/abs/2212.05171)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP)
+*  Ulip-2: Towards scalable multimodal pre-training for 3d understanding [[Paper]](https://arxiv.org/pdf/2305.08275.pdf)[[Code]](https://github.com/salesforce/ULIP)
 
 ### Open-Vocabulary Semantic Segmentation
-* Language-driven Semantic Segmentation [[Paper]](https://arxiv.org/abs/2201.03546)[[Code]]()
+* Language-driven Semantic Segmentation [[Paper]](https://arxiv.org/abs/2201.03546)[[Code]](https://github.com/isl-org/lang-seg)
 * Emerging Properties in Self-Supervised Vision Transformers [[Paper]](https://arxiv.org/abs/2104.14294)[[Code]](https://github.com/facebookresearch/dino)
-
+* Segment Anything [[Paper]](https://arxiv.org/abs/2304.02643)[[Project]](https://segment-anything.com/)
+* Fast segment anything [[Paper]](https://arxiv.org/abs/2306.12156)[[Code]](https://github.com/CASIA-IVA-Lab/FastSAM)
+* Faster Segment Anything: Towards Lightweight SAM for Mobile Applications [[Paper]](https://arxiv.org/abs/2306.14289)[[Code]](https://github.com/ChaoningZhang/MobileSAM)
+* Track anything: Segment anything meets videos [[Paper]](https://arxiv.org/abs/2304.11968)[[Code]](https://github.com/gaomingqi/Track-Anything)
+* Clip-nerf: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
 ### Open-Vocabulary 3D Scene Representations
 * LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
 
