@@ -74,23 +74,15 @@ If you find this repository helpful, please consider citing:
 * Zero-Shot Reward Specification via Grounded Natural Language[[Paper]](https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf)
 * VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models[[Project]](https://voxposer.github.io)
 * VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training [[Paper]](https://arxiv.org/abs/2210.00030)[[Project]](https://sites.google.com/view/vip-rl)
-* 
-* 
-* VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
-* Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
-* ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)[[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)[[Code]](https://github.com/microsoft/PromptCraft-Robotics)
-* Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
-* Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935) 
-* ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding [[Paper(ULIP 1)]](https://arxiv.org/abs/2212.05171)[[Paper(ULIP 2)]](https://arxiv.org/abs/2305.08275)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP)
-
-### LLM-Based Code Generation
-* Paper: ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/) 
-
-
+* LIV: Language-Image Representations and Rewards for Robotic Control[[Paper]](https://arxiv.org/abs/2306.00958)[[Project]](https://penn-pal-lab.github.io/LIV/)
+* LOReL: Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation[[Paper]](https://arxiv.org/abs/2109.01115)[[Project]](https://sites.google.com/view/robotlorel)
 
 ### Robot Task Planning Using Large Language Models
 
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
+
+### LLM-Based Code Generation
+* Paper: ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/) 
 
 ### In-context Learning for Decision-Making
 
@@ -133,3 +125,12 @@ If you find this repository helpful, please consider citing:
 ### Generalist AI
 
 ### Simulators
+
+
+
+* VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
+* Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
+* ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)[[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)[[Code]](https://github.com/microsoft/PromptCraft-Robotics)
+* Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
+* Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935) 
+* ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding [[Paper(ULIP 1)]](https://arxiv.org/abs/2212.05171)[[Paper(ULIP 2)]](https://arxiv.org/abs/2305.08275)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP)
