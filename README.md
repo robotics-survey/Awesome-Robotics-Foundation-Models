@@ -58,21 +58,14 @@ If you find this repository helpful, please consider citing:
 
 ### Robot Policy Learning for Decision Making and Controls
 
-* Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
-* Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]]()
-* ConceptFusion: Open-set Multimodal 3D Mapping [[Paper]](https://concept-fusion.github.io/assets/pdf/2023-ConceptFusion.pdf)[[Project]](https://concept-fusion.github.io/)[[Code]](https://github.com/concept-fusion/concept-fusion)
-* LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
-* BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment [[Paper]](https://arxiv.org/abs/2207.08192)[[Project]](https://busybot.cs.columbia.edu/)[[Code]](https://github.com/columbia-ai-robotics/BusyBot)
-* NeuPSL: Neural Probabilistic Soft Logic [[Paper]](https://arxiv.org/pdf/2205.14268.pdf) 
-* Any-to-Any Generation via Composable Diffusion [[Paper]](https://arxiv.org/abs/2305.11846)[[Project]](https://codi-gen.github.io/)[[Code]](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
-* SE(3)-DiffusionFields: Learning smooth cost functions for joint grasp and motion optimization through diffusion [[Paper]](https://arxiv.org/pdf/2209.03855.pdf)[[Project]](https://sites.google.com/view/se3dif)[[Code]](https://github.com/TheCamusean/grasp_diffusion)
-* Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields [[Paper]](https://arxiv.org/abs/2305.11588) 
+
 
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
 * CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098)[[Project]](https://cliport.github.io/)[[Code]](https://github.com/cliport/cliport)
 * Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2209.05451)[[Project]](https://peract.github.io/)[[Code]](https://github.com/peract/peract)
 * Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691)[[Project]](https://say-can.github.io/)[[Code]](https://github.com/google-research/google-research/tree/master/saycan)
 * VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
+* Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
 * ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)[[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)[[Code]](https://github.com/microsoft/PromptCraft-Robotics)
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
 * Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935) 
@@ -97,10 +90,13 @@ If you find this repository helpful, please consider citing:
 ## Relevant to Robotics
 
 ### Open-Vocabulary Object Detection and 3D Classification
+*  Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]]()
 
 ### Open-Vocabulary Semantic Segmentation
 
 ### Open-Vocabulary 3D Scene Representations
+* LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
+
 
 ### Open-Vocabulary Object Representations
 
