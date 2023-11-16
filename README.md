@@ -113,6 +113,8 @@ If you find this repository helpful, please consider citing:
 *  Grounded Language-Image Pre-training [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)[[Code]](https://github.com/microsoft/GLIP)
 *  Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[Paper]](https://arxiv.org/abs/2303.05499)[[Code]](https://github.com/IDEA-Research/GroundingDINO)
 *  PointCLIP: Point Cloud Understanding by CLIP [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf)[[Code]](https://github.com/ZrrSkywalker/PointCLIP)
+*  Point-bert: Pre-training 3d point cloud transformers with masked point modeling [[Paper]](https://arxiv.org/abs/2111.14819)[[Code]](https://github.com/lulutang0608/Point-BERT)
+*  ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding [[Paper]](https://arxiv.org/abs/2212.05171)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP)
 
 ### Open-Vocabulary Semantic Segmentation
 * Language-driven Semantic Segmentation [[Paper]](https://arxiv.org/abs/2201.03546)[[Code]]()
