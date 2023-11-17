@@ -83,6 +83,7 @@ If you find this repository helpful, please consider citing:
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
 * AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers[[Paper]](https://arxiv.org/abs/2306.06531)[[Project]](https://yongchao98.github.io/MIT-REALM-AutoTAMP/)
 * LATTE: LAnguage Trajectory TransformEr [[Paper]](https://arxiv.org/abs/2208.02918)[[Code]](https://github.com/arthurfenderbucker/LaTTe-Language-Trajectory-TransformEr)
+* Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935)
 
 ### LLM-Based Code Generation
 * ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/)
@@ -100,6 +101,10 @@ If you find this repository helpful, please consider citing:
 * PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training [[Paper]](https://arxiv.org/abs/2209.11133)
 
 ### In-context Learning for Decision-Making
+* A Survey on In-context Learning [[Paper]](https://arxiv.org/abs/2301.00234)
+* Large Language Models as General Pattern Machines [[Paper]](https://arxiv.org/abs/2307.04721)
+* Chain-of-Thought Predictive Control [[Paper]](https://arxiv.org/abs/2304.00776)
+* ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 
 ### Open-Vocabulary Robot Navigation and Manipulation
 * CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [[Paper]](https://arxiv.org/pdf/2203.10421.pdf)[[Project]](https://cow.cs.columbia.edu/)[[Code]]()
@@ -132,13 +137,26 @@ If you find this repository helpful, please consider citing:
 * LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
 * Decomposing nerf for editing via feature field distillation [[Paper]](https://arxiv.org/abs/2205.15585)[[Project]](https://pfnet-research.github.io/distilled-feature-fields)
 
-### Open-Vocabulary Object Representations
+### Object Representations
+* Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation [[Paper]](https://arxiv.org/abs/2112.05124)[[Project]](https://yilundu.github.io/ndf/)
+* Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation [[Paper]](https://arxiv.org/abs/2308.07931)[[Project]](https://f3rm.github.io/)
+* You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example [[Paper]](https://arxiv.org/abs/2305.12626)
+* Zero-Shot Category-Level Object Pose Estimation [[Paper]](https://arxiv.org/abs/2204.03635)[[Code]](https://github.com/applied-ai-lab/zero-shot-pose)
 
 ### Affordance Information
 * Affordance Diffusion: Synthesizing Hand-Object Interactions [[Paper]](https://arxiv.org/abs/2303.12538)[[Project]](https://judyye.github.io/affordiffusion-www/)
 * Affordances from Human Videos as a Versatile Representation for Robotics [[Paper]](https://arxiv.org/abs/2304.08488)[[Project]](https://robo-affordances.github.io/)
 
 ### Predictive Models
+* Adversarial Inverse Reinforcement Learning With Self-Attention Dynamics Model [[Paper]](https://ieeexplore.ieee.org/document/9361118)
+* Connected Autonomous Vehicle Motion Planning with Video Predictions from Smart, Self-Supervised Infrastructure [[Paper]](https://arxiv.org/pdf/2309.07504.pdf)
+* Self-Supervised Traffic Advisors: Distributed, Multi-view Traffic Prediction for Smart Cities [[Paper]](https://arxiv.org/abs/2204.06171)
+* Planning with diffusion for flexible behavior synthesis [[Paper]](https://arxiv.org/abs/2205.09991)
+* Phenaki: Variable-length video generation from open domain textual description [[Paper]](https://arxiv.org/abs/2210.02399)
+* Robonet: Large-scale multi-robot learning [[Paper]](https://arxiv.org/abs/1910.11215)
+* GAIA-1: A Generative World Model for Autonomous Driving [[Paper]](https://arxiv.org/abs/2309.17080)
+* Learning universal policies via text-guided video generation [[Paper]](https://arxiv.org/abs/2302.00111)
+* Video language planning [[Paper]](https://arxiv.org/abs/2302.00111)
 
 ## Relevant to Robotics (Embodied AI) 
 * Inner Monologue: Embodied Reasoning through Planning with Language Models [[Paper]](https://arxiv.org/abs/2207.05608)[[Project]](https://innermonologue.github.io/)
@@ -164,5 +182,5 @@ If you find this repository helpful, please consider citing:
 * Robothor: An open simulation-to-real embodied ai platform [[Paper]](https://arxiv.org/abs/2004.06799)[[Project]](https://ai2thor.allenai.org/robothor/)
 * VirtualHome: Simulating Household Activities via Programs [[Paper]](https://arxiv.org/abs/1806.07011)
 
-* Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935)
+
 
