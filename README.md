@@ -69,7 +69,6 @@ If you find this repository helpful, please consider citing:
 * Guiding Pretraining in Reinforcement Learning with Large Language Models [[Paper]](https://arxiv.org/abs/2302.06692)[[Code]](https://github.com/yuqingd/ellm)
 
 ### Language-Image Goal-Conditioned Value Learning
-
 * SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691)[[Project]](https://say-can.github.io/)[[Code]](https://github.com/google-research/google-research/tree/master/saycan)
 * Zero-Shot Reward Specification via Grounded Natural Language [[Paper]](https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf)
 * VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [[Project]](https://voxposer.github.io)
