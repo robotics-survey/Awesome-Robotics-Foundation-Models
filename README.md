@@ -21,7 +21,7 @@ We welcome contributions to this repository to add more resources. Please submit
 - [Relevant to Robotics](#relevant-to-robotics)
 - [Open-Vocabulary Object Detection and 3D Classification](#open-vocabulary-object-detection-and-3D-classification)
 - [Open-Vocabulary Semantic Segmentation](#open-vocabulary-semantic-segmentation)
---- [Open-Vocabulary 3D Scene Representations](#open-vocabulary-3D-scene-representations)
+- [Open-Vocabulary 3D Scene Representations](#open-vocabulary-3D-scene-representations)
 - [Open-Vocabulary Object Representations](#open-vocabulary-object-representations)
 - [Affordance Information](#affordance-information)
 - [Predictive Models](#predictive-models)
