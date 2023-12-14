@@ -79,6 +79,7 @@ If you find this repository helpful, please consider citing:
 
 ### Robot Task Planning Using Large Language Models
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/abs/2201.07207)[[Project]](https://wenlong.page/language-planner/)
+* Open-vocabulary Queryable Scene Representations for Real World Planning (NLMap) [[Paper]](https://arxiv.org/pdf/2209.09874.pdf)[[Project]](https://nlmap-saycan.github.io/)
 * NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models [[Paper]](https://arxiv.org/pdf/2305.07766.pdf)[[Project]](https://yongchao98.github.io/MIT-realm-NL2TL/)[[Code]](https://github.com/yongchao98/NL2TL)
 * AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers[[Paper]](https://arxiv.org/abs/2306.06531)[[Project]](https://yongchao98.github.io/MIT-REALM-AutoTAMP/)
 * LATTE: LAnguage Trajectory TransformEr [[Paper]](https://arxiv.org/abs/2208.02918)[[Code]](https://github.com/arthurfenderbucker/LaTTe-Language-Trajectory-TransformEr)
@@ -111,6 +112,7 @@ If you find this repository helpful, please consider citing:
 
 ### Open-Vocabulary Robot Navigation and Manipulation
 * CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [[Paper]](https://arxiv.org/pdf/2203.10421.pdf)[[Project]](https://cow.cs.columbia.edu/)[[Code]]()
+* Open-vocabulary Queryable Scene Representations for Real World Planning (NLMap) [[Paper]](https://arxiv.org/pdf/2209.09874.pdf)[[Project]](https://nlmap-saycan.github.io/)
 * LSC: Language-guided Skill Coordination for Open-Vocabulary Mobile Pick-and-Place [[Paper]]()[[Project]](https://languageguidedskillcoordination.github.io/)
 * L3MVN: Leveraging Large Language Models for Visual Target Navigation [[Project]](https://arxiv.org/abs/2304.05501)
 * Open-World Object Manipulation using Pre-trained Vision-Language Models [[Paper]](https://robot-moo.github.io/assets/moo.pdf)[[Project]](https://robot-moo.github.io/)
@@ -138,6 +140,7 @@ If you find this repository helpful, please consider citing:
 * Track anything: Segment anything meets videos [[Paper]](https://arxiv.org/abs/2304.11968)[[Code]](https://github.com/gaomingqi/Track-Anything)
 
 ### Open-Vocabulary 3D Scene Representations
+* Open-vocabulary Queryable Scene Representations for Real World Planning (NLMap) [[Paper]](https://arxiv.org/pdf/2209.09874.pdf)[[Project]](https://nlmap-saycan.github.io/)
 * Clip-NeRF: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
 * LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
 * Decomposing nerf for editing via feature field distillation [[Paper]](https://arxiv.org/abs/2205.15585)[[Project]](https://pfnet-research.github.io/distilled-feature-fields)
