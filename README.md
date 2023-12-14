@@ -85,6 +85,7 @@ If you find this repository helpful, please consider citing:
 * Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935)
 * Describe, explain, plan and select: interactive planning with LLMs enables open-world multi-task agents [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)[[Code]](https://github.com/CraftJarvis/MC-Planner)
 * JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
+* An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/pdf/2311.12871.pdf)[[Project]](https://embodied-generalist.github.io/)[[Code]](https://github.com/embodied-generalist/embodied-generalist)
 
 ### LLM-Based Code Generation
 * ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/)
@@ -114,6 +115,7 @@ If you find this repository helpful, please consider citing:
 * L3MVN: Leveraging Large Language Models for Visual Target Navigation [[Project]](https://arxiv.org/abs/2304.05501)
 * Open-World Object Manipulation using Pre-trained Vision-Language Models [[Paper]](https://robot-moo.github.io/assets/moo.pdf)[[Project]](https://robot-moo.github.io/)
 * VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
+* Diffusion-based Generation, Optimization, and Planning in 3D Scenes [[Paper]](https://arxiv.org/pdf/2301.06015.pdf)[[Project]](https://scenediffuser.github.io/)[[Code]](https://github.com/scenediffuser/Scene-Diffuser)
 
 ## Relevant to Robotics (Perception)
 
@@ -125,6 +127,7 @@ If you find this repository helpful, please consider citing:
 *  Point-bert: Pre-training 3d point cloud transformers with masked point modeling [[Paper]](https://arxiv.org/abs/2111.14819)[[Code]](https://github.com/lulutang0608/Point-BERT)
 *  ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding [[Paper]](https://arxiv.org/abs/2212.05171)[[Project]](https://tycho-xue.github.io/ULIP/)[[Code]](https://github.com/salesforce/ULIP)
 *  Ulip-2: Towards scalable multimodal pre-training for 3d understanding [[Paper]](https://arxiv.org/pdf/2305.08275.pdf)[[Code]](https://github.com/salesforce/ULIP)
+*  3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment [[Paper]](https://arxiv.org/pdf/2308.04352.pdf)[[Project]](https://3d-vista.github.io/)[[Code]](https://github.com/3d-vista/3D-VisTA)
 
 ### Open-Vocabulary Semantic Segmentation
 * Language-driven Semantic Segmentation [[Paper]](https://arxiv.org/abs/2201.03546)[[Code]](https://github.com/isl-org/lang-seg)
@@ -173,11 +176,13 @@ If you find this repository helpful, please consider citing:
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
 * GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
 * JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
+* SQA3D: Situated Question Answering in 3D Scenes [[Paper]](https://arxiv.org/pdf/2210.07474.pdf)[[Project]](https://sqa3d.github.io/)[[Code]](https://github.com/SilongYong/SQA3D)
 
 ### Generalist AI
 * Generative Agents: Interactive Simulacra of Human Behavior [[Paper]](https://arxiv.org/abs/2304.03442)
 * Towards Generalist Robots: A Promising Paradigm via Generative Simulation [[Paper]](https://arxiv.org/abs/2305.10455)
 * A generalist agent [[Paper]](https://arxiv.org/abs/2205.06175)
+* An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/pdf/2311.12871.pdf)[[Project]](https://embodied-generalist.github.io/)[[Code]](https://github.com/embodied-generalist/embodied-generalist)
 
 ### Simulators
 * Gibson Env: real-world perception for embodied agents [[Paper]](https://arxiv.org/abs/1808.10654)
@@ -187,6 +192,7 @@ If you find this repository helpful, please consider citing:
 * Habitat 2.0: Training home assistants to rearrange their habitat [[Paper]](https://arxiv.org/abs/2106.14405)
 * Robothor: An open simulation-to-real embodied ai platform [[Paper]](https://arxiv.org/abs/2004.06799)[[Project]](https://ai2thor.allenai.org/robothor/)
 * VirtualHome: Simulating Household Activities via Programs [[Paper]](https://arxiv.org/abs/1806.07011)
+* ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes [[Paper]](https://arxiv.org/pdf/2304.04321.pdf)[[Project]](https://arnold-benchmark.github.io/)[[Code]](https://github.com/arnold-benchmark/arnold)
 
 
 
