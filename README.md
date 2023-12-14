@@ -83,6 +83,8 @@ If you find this repository helpful, please consider citing:
 * AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers[[Paper]](https://arxiv.org/abs/2306.06531)[[Project]](https://yongchao98.github.io/MIT-REALM-AutoTAMP/)
 * LATTE: LAnguage Trajectory TransformEr [[Paper]](https://arxiv.org/abs/2208.02918)[[Code]](https://github.com/arthurfenderbucker/LaTTe-Language-Trajectory-TransformEr)
 * Planning with Large Language Models via Corrective Re-prompting [[Paper]](https://arxiv.org/abs/2211.09935)
+* Describe, explain, plan and select: interactive planning with LLMs enables open-world multi-task agents [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)[[Code]](https://github.com/CraftJarvis/MC-Planner)
+* JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
 * An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/pdf/2311.12871.pdf)[[Project]](https://embodied-generalist.github.io/)[[Code]](https://github.com/embodied-generalist/embodied-generalist)
 
 ### LLM-Based Code Generation
@@ -99,6 +101,7 @@ If you find this repository helpful, please consider citing:
 * Real-world robot learning with masked visual pre-training [[Paper]](https://arxiv.org/abs/2210.03109)[[Project]](https://tetexiao.com/projects/real-mvp)
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control [[Paper]](https://arxiv.org/abs/2307.15818)[[Project]](https://robotics-transformer2.github.io/)
 * PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training [[Paper]](https://arxiv.org/abs/2209.11133)
+* GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
 
 ### In-context Learning for Decision-Making
 * A Survey on In-context Learning [[Paper]](https://arxiv.org/abs/2301.00234)
@@ -166,9 +169,13 @@ If you find this repository helpful, please consider citing:
 * EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Paper]](https://arxiv.org/pdf/2305.15021.pdf)[[Project]](https://embodiedgpt.github.io/)
 * MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge [[Paper]](https://openreview.net/forum?id=rc8o_j8I8PX)[[Code]](https://github.com/MineDojo/MineDojo)
 * Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos [[Paper]](https://arxiv.org/abs/2206.11795)
+* Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction [[Paper]](https://arxiv.org/pdf/2301.10034.pdf)[[Code]](https://github.com/CraftJarvis/MC-Controller)
+* Describe, explain, plan and select: interactive planning with LLMs enables open-world multi-task agents [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)[[Code]](https://github.com/CraftJarvis/MC-Planner)
 * Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)[[Code]](https://github.com/MineDojo/Voyager)
 * Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory [[Paper]](https://arxiv.org/abs/2305.17144)[[Project]](https://github.com/OpenGVLab/GITM)
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/pdf/2201.07207.pdf)[[Project]](https://wenlong.page/language-planner/)[[Code]](https://github.com/huangwl18/language-planner)
+* GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
+* JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
 * SQA3D: Situated Question Answering in 3D Scenes [[Paper]](https://arxiv.org/pdf/2210.07474.pdf)[[Project]](https://sqa3d.github.io/)[[Code]](https://github.com/SilongYong/SQA3D)
 
 ### Generalist AI
