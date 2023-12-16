@@ -100,6 +100,7 @@ If you find this repository helpful, please consider citing:
 * RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://robotics-transformer.github.io/assets/rt1.pdf)[[Project]](https://robotics-transformer.github.io/)[[Code]](https://github.com/google-research/robotics_transformer)
 * Masked Visual Pre-training for Motor Control [[Paper]](https://arxiv.org/abs/2203.06173)[[Project]](https://tetexiao.com/projects/mvp)[[Code]](https://github.com/ir413/mvp)
 * Real-world robot learning with masked visual pre-training [[Paper]](https://arxiv.org/abs/2210.03109)[[Project]](https://tetexiao.com/projects/real-mvp)
+* Robot Learning with Sensorimotor Pre-training [[Paper]](https://arxiv.org/abs/2306.10007)[[Project]](https://robotic-pretrained-transformer.github.io/)
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control [[Paper]](https://arxiv.org/abs/2307.15818)[[Project]](https://robotics-transformer2.github.io/)
 * PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training [[Paper]](https://arxiv.org/abs/2209.11133)
 * GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
