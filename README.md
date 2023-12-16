@@ -119,6 +119,7 @@ If you find this repository helpful, please consider citing:
 * Open-World Object Manipulation using Pre-trained Vision-Language Models [[Paper]](https://robot-moo.github.io/assets/moo.pdf)[[Project]](https://robot-moo.github.io/)
 * VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
 * Diffusion-based Generation, Optimization, and Planning in 3D Scenes [[Paper]](https://arxiv.org/pdf/2301.06015.pdf)[[Project]](https://scenediffuser.github.io/)[[Code]](https://github.com/scenediffuser/Scene-Diffuser)
+* LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery [[Paper]](http://arxiv.org/abs/2311.02058) [[Project]](https://ut-austin-rpl.github.io/Lotus/)
 
 ## Relevant to Robotics (Perception)
 
@@ -151,6 +152,8 @@ If you find this repository helpful, please consider citing:
 * Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation [[Paper]](https://arxiv.org/abs/2308.07931)[[Project]](https://f3rm.github.io/)
 * You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example [[Paper]](https://arxiv.org/abs/2305.12626)
 * Zero-Shot Category-Level Object Pose Estimation [[Paper]](https://arxiv.org/abs/2204.03635)[[Code]](https://github.com/applied-ai-lab/zero-shot-pose)
+* VIOLA: Imitation Learning for Vision-Based Manipulation with Object Proposal Priors [[Paper]](https://arxiv.org/abs/2210.11339)[[Project]](https://ut-austin-rpl.github.io/VIOLA/)[[Code]](https://github.com/UT-Austin-RPL/VIOLA)
+* Learning Generalizable Manipulation Policies with Object-Centric 3D Representations [[Paper]](http://arxiv.org/abs/2310.14386)[[Project]](https://ut-austin-rpl.github.io/GROOT/)[[Code]](https://github.com/UT-Austin-RPL/GROOT)
 
 ### Affordance Information
 * Affordance Diffusion: Synthesizing Hand-Object Interactions [[Paper]](https://arxiv.org/abs/2303.12538)[[Project]](https://judyye.github.io/affordiffusion-www/)
@@ -197,6 +200,4 @@ If you find this repository helpful, please consider citing:
 * Robothor: An open simulation-to-real embodied ai platform [[Paper]](https://arxiv.org/abs/2004.06799)[[Project]](https://ai2thor.allenai.org/robothor/)
 * VirtualHome: Simulating Household Activities via Programs [[Paper]](https://arxiv.org/abs/1806.07011)
 * ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes [[Paper]](https://arxiv.org/pdf/2304.04321.pdf)[[Project]](https://arnold-benchmark.github.io/)[[Code]](https://github.com/arnold-benchmark/arnold)
-
-
-
+* LIBERO: Benchmarking Knowledge Transfer in Lifelong Robot Learning [[Paper]](https://arxiv.org/pdf/2306.03310.pdf)[[Project]](https://lifelong-robot-learning.github.io/LIBERO/html/getting_started/overview.html)[[Code]](https://github.com/Lifelong-Robot-Learning/LIBERO)
