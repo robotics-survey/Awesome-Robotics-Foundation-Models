@@ -100,6 +100,7 @@ If you find this repository helpful, please consider citing:
 * RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://robotics-transformer.github.io/assets/rt1.pdf)[[Project]](https://robotics-transformer.github.io/)[[Code]](https://github.com/google-research/robotics_transformer)
 * Masked Visual Pre-training for Motor Control [[Paper]](https://arxiv.org/abs/2203.06173)[[Project]](https://tetexiao.com/projects/mvp)[[Code]](https://github.com/ir413/mvp)
 * Real-world robot learning with masked visual pre-training [[Paper]](https://arxiv.org/abs/2210.03109)[[Project]](https://tetexiao.com/projects/real-mvp)
+* R3M: A Universal Visual Representation for Robot Manipulation [[Paper]](https://arxiv.org/abs/2203.12601)[[Project]](https://sites.google.com/view/robot-r3m/)[[Code]](https://github.com/facebookresearch/r3m)
 * Robot Learning with Sensorimotor Pre-training [[Paper]](https://arxiv.org/abs/2306.10007)[[Project]](https://robotic-pretrained-transformer.github.io/)
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control [[Paper]](https://arxiv.org/abs/2307.15818)[[Project]](https://robotics-transformer2.github.io/)
 * PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training [[Paper]](https://arxiv.org/abs/2209.11133)
@@ -120,6 +121,8 @@ If you find this repository helpful, please consider citing:
 * VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094)[[Project]](https://vimalabs.github.io/)[[Code]](https://github.com/vimalabs/VIMA)
 * Diffusion-based Generation, Optimization, and Planning in 3D Scenes [[Paper]](https://arxiv.org/pdf/2301.06015.pdf)[[Project]](https://scenediffuser.github.io/)[[Code]](https://github.com/scenediffuser/Scene-Diffuser)
 * LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery [[Paper]](http://arxiv.org/abs/2311.02058) [[Project]](https://ut-austin-rpl.github.io/Lotus/)
+* Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World [[Paper]](https://arxiv.org/abs/2312.02976) [[Project]](https://spoc-robot.github.io/)
+* ThinkBot: Embodied Instruction Following with Thought Chain Reasoning [[Paper]](https://arxiv.org/abs/2312.07062) [[Project]](https://guanxinglu.github.io/thinkbot/)
 
 ## Relevant to Robotics (Perception)
 
@@ -168,7 +171,7 @@ If you find this repository helpful, please consider citing:
 * Robonet: Large-scale multi-robot learning [[Paper]](https://arxiv.org/abs/1910.11215)
 * GAIA-1: A Generative World Model for Autonomous Driving [[Paper]](https://arxiv.org/abs/2309.17080)
 * Learning universal policies via text-guided video generation [[Paper]](https://arxiv.org/abs/2302.00111)
-* Video language planning [[Paper]](https://arxiv.org/abs/2302.00111)
+* Video language planning [[Paper]](https://arxiv.org/abs/2310.10625)
 
 ## Relevant to Robotics (Embodied AI) 
 * Inner Monologue: Embodied Reasoning through Planning with Language Models [[Paper]](https://arxiv.org/abs/2207.05608)[[Project]](https://innermonologue.github.io/)
@@ -200,4 +203,6 @@ If you find this repository helpful, please consider citing:
 * Robothor: An open simulation-to-real embodied ai platform [[Paper]](https://arxiv.org/abs/2004.06799)[[Project]](https://ai2thor.allenai.org/robothor/)
 * VirtualHome: Simulating Household Activities via Programs [[Paper]](https://arxiv.org/abs/1806.07011)
 * ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes [[Paper]](https://arxiv.org/pdf/2304.04321.pdf)[[Project]](https://arnold-benchmark.github.io/)[[Code]](https://github.com/arnold-benchmark/arnold)
+* ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks [[Paper]](https://arxiv.org/abs/1912.01734)[[Project]](https://askforalfred.com/)[[Code]](https://github.com/askforalfred/alfred)
 * LIBERO: Benchmarking Knowledge Transfer in Lifelong Robot Learning [[Paper]](https://arxiv.org/pdf/2306.03310.pdf)[[Project]](https://lifelong-robot-learning.github.io/LIBERO/html/getting_started/overview.html)[[Code]](https://github.com/Lifelong-Robot-Learning/LIBERO)
+* ProcTHOR: Large-Scale Embodied AI Using Procedural Generation [[Paper]](https://arxiv.org/abs/2206.06994)[[Project]](https://procthor.allenai.org/)[[Code]](https://github.com/allenai/procthor)
