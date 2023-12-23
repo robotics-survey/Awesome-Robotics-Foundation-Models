@@ -35,15 +35,15 @@ This repository is largely based on the following paper:
 
 **[Foundation Models in Robotics: Applications, Challenges, and the Future]()**
 <br />
-Roya Firoozi
-Jiankai Sun,
+Roya Firoozi,
 Johnathan Tucker,
+Stephen Tian,
 Anirudha Majumdar,
+Jiankai Sun,
+Weiyu Liu,
 Yuke Zhu,
 Shuran Song,
 Ashish Kapoor,
-Weiyu Liu,
-Stephen Tian,
 Karol Hausman,
 Brian Ichter,
 Danny Driess,
