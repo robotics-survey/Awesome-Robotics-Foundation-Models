@@ -54,6 +54,15 @@ Mac Schwager
 
 If you find this repository helpful, please consider citing:
 
+```bibtex
+@article{firoozi2023foundation,
+  title={Foundation Models in Robotics: Applications, Challenges, and the Future},
+  author={Firoozi, Roya and Tucker, Johnathan and Tian, Stephen and Majumdar, Anirudha and Sun, Jiankai and Liu, Weiyu and Zhu, Yuke and Song, Shuran and Kapoor, Ashish and Hausman, Karol and others},
+  journal={arXiv preprint arXiv:2312.07843},
+  year={2023}
+}
+```
+
 ## Robotics
 
 ### Robot Policy Learning for Decision-Making and Controls
