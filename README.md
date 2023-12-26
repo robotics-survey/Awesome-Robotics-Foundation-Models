@@ -96,6 +96,7 @@ If you find this repository helpful, please consider citing:
 * Describe, explain, plan and select: interactive planning with LLMs enables open-world multi-task agents [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)[[Code]](https://github.com/CraftJarvis/MC-Planner)
 * JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
 * An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/pdf/2311.12871.pdf)[[Project]](https://embodied-generalist.github.io/)[[Code]](https://github.com/embodied-generalist/embodied-generalist)
+* LLM+P: Empowering Large Language Models with Optimal Planning Proficiency [[Paper]](https://arxiv.org/pdf/2304.11477.pdf)[[Code]](https://github.com/Cranial-XIX/llm-pddl)
 
 ### LLM-Based Code Generation
 * ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/)
