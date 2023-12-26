@@ -160,6 +160,8 @@ If you find this repository helpful, please consider citing:
 * Decomposing nerf for editing via feature field distillation [[Paper]](https://arxiv.org/abs/2205.15585)[[Project]](https://pfnet-research.github.io/distilled-feature-fields)
 
 ### Object Representations
+* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[Paper]](https://arxiv.org/abs/2312.08344)[[Project]](https://nvlabs.github.io/FoundationPose/)
+* BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects [[Paper]](https://arxiv.org/abs/2303.14158)[[Project]](https://bundlesdf.github.io//)
 * Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation [[Paper]](https://arxiv.org/abs/2112.05124)[[Project]](https://yilundu.github.io/ndf/)
 * Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation [[Paper]](https://arxiv.org/abs/2308.07931)[[Project]](https://f3rm.github.io/)
 * You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example [[Paper]](https://arxiv.org/abs/2305.12626)
@@ -182,7 +184,7 @@ If you find this repository helpful, please consider citing:
 * Learning universal policies via text-guided video generation [[Paper]](https://arxiv.org/abs/2302.00111)
 * Video language planning [[Paper]](https://arxiv.org/abs/2310.10625)
 
-## Relevant to Robotics (Embodied AI) 
+## Relevant to Robotics (Embodied AI)
 * Inner Monologue: Embodied Reasoning through Planning with Language Models [[Paper]](https://arxiv.org/abs/2207.05608)[[Project]](https://innermonologue.github.io/)
 * Statler: State-Maintaining Language Models for Embodied Reasoning [[Paper]](https://arxiv.org/abs/2306.17840)[[Project]](https://statler-lm.github.io/)
 * EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Paper]](https://arxiv.org/pdf/2305.15021.pdf)[[Project]](https://embodiedgpt.github.io/)
