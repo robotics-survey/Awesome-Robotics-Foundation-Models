@@ -71,11 +71,13 @@ If you find this repository helpful, please consider citing:
 * Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2209.05451)[[Project]](https://peract.github.io/)[[Code]](https://github.com/peract/peract)
 * Play-LMP: Learning Latent Plans from Play [[Project]](https://learning-from-play.github.io/)
 * Multi-Context Imitation: Language-Conditioned Imitation Learning over Unstructured Data [[Project]](https://language-play.github.io)
+
 #### Language-Assisted Reinforcement Learning
 * Towards A Unified Agent with Foundation Models [[Paper]](https://arxiv.org/abs/2307.09668)
 * Reward Design with Language Models [[Paper]](https://arxiv.org/abs/2303.00001)
 * Learning to generate better than your llm [[Paper]](https://arxiv.org/pdf/2306.11816.pdf)[[Code]](https://github.com/Cornell-RL/tril)
 * Guiding Pretraining in Reinforcement Learning with Large Language Models [[Paper]](https://arxiv.org/abs/2302.06692)[[Code]](https://github.com/yuqingd/ellm)
+* Motif: Intrinsic Motivation from Artificial Intelligence Feedback [[Paper]](https://arxiv.org/abs/2310.00166)[[Code]](https://github.com/facebookresearch/motif)
 
 ### Language-Image Goal-Conditioned Value Learning
 * SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691)[[Project]](https://say-can.github.io/)[[Code]](https://github.com/google-research/google-research/tree/master/saycan)
