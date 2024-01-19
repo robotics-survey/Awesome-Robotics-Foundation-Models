@@ -117,6 +117,8 @@ If you find this repository helpful, please consider citing:
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control [[Paper]](https://arxiv.org/abs/2307.15818)[[Project]](https://robotics-transformer2.github.io/)
 * PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training [[Paper]](https://arxiv.org/abs/2209.11133)
 * GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
+* Behavior Transformers (BeT): Cloning k modes with one stone [[Paper]](https://arxiv.org/abs/2206.11251)[[Project]](https://mahis.life/bet/)[[Code]](https://github.com/notmahi/bet)
+* Conditional Behavior Transformers (C-BeT), From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data [[Paper]](https://arxiv.org/abs/2210.10047)[[Project]](https://play-to-policy.github.io/)[[Code]](https://github.com/jeffacce/play-to-policy)
 
 ### In-context Learning for Decision-Making
 * A Survey on In-context Learning [[Paper]](https://arxiv.org/abs/2301.00234)
@@ -135,6 +137,8 @@ If you find this repository helpful, please consider citing:
 * LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery [[Paper]](http://arxiv.org/abs/2311.02058) [[Project]](https://ut-austin-rpl.github.io/Lotus/)
 * Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World [[Paper]](https://arxiv.org/abs/2312.02976) [[Project]](https://spoc-robot.github.io/)
 * ThinkBot: Embodied Instruction Following with Thought Chain Reasoning [[Paper]](https://arxiv.org/abs/2312.07062) [[Project]](https://guanxinglu.github.io/thinkbot/)
+* CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory [[Paper]](https://arxiv.org/abs/2210.05663) [[Project]](https://mahis.life/clip-fields) [[Code]](https://github.com/notmahi/clip-fields)
+* USA-Net: Unified Semantic and Affordance Representations for Robot Memory [[Paper]](https://arxiv.org/abs/2304.12164) [[Project]](https://usa.bolte.cc/) [[Code]](https://github.com/codekansas/usa)
 
 ## Relevant to Robotics (Perception)
 
@@ -159,6 +163,7 @@ If you find this repository helpful, please consider citing:
 ### Open-Vocabulary 3D Scene Representations
 * Open-vocabulary Queryable Scene Representations for Real World Planning (NLMap) [[Paper]](https://arxiv.org/pdf/2209.09874.pdf)[[Project]](https://nlmap-saycan.github.io/)
 * Clip-NeRF: Text-and-image driven manipulation of neural radiance fields [[Paper]](https://arxiv.org/abs/2112.05139)[[Project]](https://cassiepython.github.io/clipnerf/)
+* CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory [[Paper]](https://arxiv.org/abs/2210.05663) [[Project]](https://mahis.life/clip-fields) [[Code]](https://github.com/notmahi/clip-fields)
 * LERF: Language Embedded Radiance Fields [[Paper]](https://arxiv.org/abs/2303.09553)[[Project]](https://www.lerf.io/)[[Code]](https://github.com/kerrj/lerf)
 * Decomposing nerf for editing via feature field distillation [[Paper]](https://arxiv.org/abs/2205.15585)[[Project]](https://pfnet-research.github.io/distilled-feature-fields)
 
