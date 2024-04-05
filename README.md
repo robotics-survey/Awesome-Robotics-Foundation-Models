@@ -106,6 +106,7 @@ If you find this repository helpful, please consider citing:
 * ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://arxiv.org/abs/2306.17582)[[Project]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)[[Code]](https://github.com/microsoft/PromptCraft-Robotics)
 * Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)[[Project]](https://voyager.minedojo.org/)
 * Visual Programming: Compositional visual reasoning without training [[Paper]](https://arxiv.org/abs/2211.11559)[[Project]](https://prior.allenai.org/projects/visprog)[[Code]](https://github.com/allenai/visprog)
+* Deploying and Evaluating LLMs to Program Service Mobile Robots [[Paper]](https://arxiv.org/abs/2311.11183)[[Project]](https://amrl.cs.utexas.edu/codebotler/)[[Code]](https://github.com/ut-amrl/codebotler)
 
 ### Robot Transformers
 * MotionGPT: Finetuned LLMs are General-Purpose Motion Generators [[Paper]](https://arxiv.org/abs/2306.10900)[[Project]](https://qiqiapink.github.io/MotionGPT/)
