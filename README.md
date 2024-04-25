@@ -87,6 +87,7 @@ If you find this repository helpful, please consider citing:
 * LIV: Language-Image Representations and Rewards for Robotic Control [[Paper]](https://arxiv.org/abs/2306.00958)[[Project]](https://penn-pal-lab.github.io/LIV/)
 * LOReL: Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation [[Paper]](https://arxiv.org/abs/2109.01115)[[Project]](https://sites.google.com/view/robotlorel)
 * Text2Motion: From Natural Language Instructions to Feasible Plans [[Paper]](https://arxiv.org/abs/2303.12153)[[Project]](https://sites.google.com/stanford.edu/text2motion)
+* MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control [[Paper]](https://arxiv.org/pdf/2403.12037.pdf)[[Project]](https://sites.google.com/view/minedreamer/main)[[Code]](https://github.com/Zhoues/MineDreamer)
 
 ### Robot Task Planning Using Large Language Models
 * Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents [[Paper]](https://arxiv.org/abs/2201.07207)[[Project]](https://wenlong.page/language-planner/)
@@ -99,6 +100,7 @@ If you find this repository helpful, please consider citing:
 * JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
 * An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/pdf/2311.12871.pdf)[[Project]](https://embodied-generalist.github.io/)[[Code]](https://github.com/embodied-generalist/embodied-generalist)
 * LLM+P: Empowering Large Language Models with Optimal Planning Proficiency [[Paper]](https://arxiv.org/pdf/2304.11477.pdf)[[Code]](https://github.com/Cranial-XIX/llm-pddl)
+* MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [[Paper]](https://arxiv.org/pdf/2312.07472.pdf)[[Project]](https://iranqin.github.io/MP5.github.io/)[[Code]](https://github.com/IranQin/MP5)
 
 ### LLM-Based Code Generation
 * ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/)
@@ -192,6 +194,7 @@ If you find this repository helpful, please consider citing:
 * GAIA-1: A Generative World Model for Autonomous Driving [[Paper]](https://arxiv.org/abs/2309.17080)
 * Learning universal policies via text-guided video generation [[Paper]](https://arxiv.org/abs/2302.00111)
 * Video language planning [[Paper]](https://arxiv.org/abs/2310.10625)
+* MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control [[Paper]](https://arxiv.org/pdf/2403.12037.pdf)[[Project]](https://sites.google.com/view/minedreamer/main)[[Code]](https://github.com/Zhoues/MineDreamer)
 
 ## Relevant to Robotics (Embodied AI)
 * Inner Monologue: Embodied Reasoning through Planning with Language Models [[Paper]](https://arxiv.org/abs/2207.05608)[[Project]](https://innermonologue.github.io/)
@@ -207,6 +210,8 @@ If you find this repository helpful, please consider citing:
 * GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
 * JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)[[Project]](https://craftjarvis.github.io/JARVIS-1/)[[Code]](https://github.com/CraftJarvis/JARVIS-1)
 * SQA3D: Situated Question Answering in 3D Scenes [[Paper]](https://arxiv.org/pdf/2210.07474.pdf)[[Project]](https://sqa3d.github.io/)[[Code]](https://github.com/SilongYong/SQA3D)
+* MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [[Paper]](https://arxiv.org/pdf/2312.07472.pdf)[[Project]](https://iranqin.github.io/MP5.github.io/)[[Code]](https://github.com/IranQin/MP5)
+* MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control [[Paper]](https://arxiv.org/pdf/2403.12037.pdf)[[Project]](https://sites.google.com/view/minedreamer/main)[[Code]](https://github.com/Zhoues/MineDreamer)
 
 ### Generalist AI
 * Generative Agents: Interactive Simulacra of Human Behavior [[Paper]](https://arxiv.org/abs/2304.03442)
