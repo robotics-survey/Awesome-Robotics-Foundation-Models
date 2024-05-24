@@ -65,6 +65,9 @@ If you find this repository helpful, please consider citing:
 
 ## Robotics
 
+### Neural Scaling Laws
+* Neural Scaling Laws for Embodied AI: Neural Scaling Laws for Embodied AI [[Paper]](https://arxiv.org/abs/2405.14005)
+
 ### Robot Policy Learning for Decision-Making and Controls
 #### Language-Conditioned Imitation Learning
 * CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098)[[Project]](https://cliport.github.io/)[[Code]](https://github.com/cliport/cliport)
