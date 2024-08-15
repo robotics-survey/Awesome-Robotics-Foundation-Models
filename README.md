@@ -66,8 +66,9 @@ If you find this repository helpful, please consider citing:
 
 ## Robotics
 
-### Neural Scaling Laws for Embodied AI
-* Neural Scaling Laws for Embodied AI [[Paper]](https://arxiv.org/abs/2405.14005)
+### Neural Scaling Laws
+* Neural Scaling Laws for Embodied AI: Neural Scaling Laws for Embodied AI [[Paper]](https://arxiv.org/abs/2405.14005)
+
 
 ### Robot Policy Learning for Decision-Making and Controls
 #### Language-Conditioned Imitation Learning
