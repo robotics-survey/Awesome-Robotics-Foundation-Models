@@ -127,6 +127,7 @@ If you find this repository helpful, please consider citing:
 * GROOT: Learning to Follow Instructions by Watching Gameplay Videos [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)[[Project]](https://craftjarvis.github.io/GROOT/)[[Code]](https://github.com/CraftJarvis/GROOT)
 * Behavior Transformers (BeT): Cloning k modes with one stone [[Paper]](https://arxiv.org/abs/2206.11251)[[Project]](https://mahis.life/bet/)[[Code]](https://github.com/notmahi/bet)
 * Conditional Behavior Transformers (C-BeT), From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data [[Paper]](https://arxiv.org/abs/2210.10047)[[Project]](https://play-to-policy.github.io/)[[Code]](https://github.com/jeffacce/play-to-policy)
+* MAGIC<sup>VFM</sup>: Meta-learning Adaptation for Ground Interaction Control with Visual Foundation Models [[Paper]](https://arxiv.org/abs/2407.12304)
 
 ### In-context Learning for Decision-Making
 * A Survey on In-context Learning [[Paper]](https://arxiv.org/abs/2301.00234)
