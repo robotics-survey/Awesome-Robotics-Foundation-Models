@@ -12,6 +12,7 @@ We welcome contributions to this repository to add more resources. Please submit
 
 - [Survey](#survey)
 - [Robotics](#robotics)
+- [Neural Scaling Laws for embodied AI](#neural-scaling-laws-for-embodied-AI)
 - [Robot Policy Learning for Decision Making and Controls](#robot-policy-learning-for-decision-making-and-controls)
 - [Language-Image Goal-Conditioned Value Learning](#language-image-goal-conditioned-value-learning)
 - [Robot Task Planning Using Large Language Models](#robot-task-planning-using-large-language-models)
@@ -67,6 +68,7 @@ If you find this repository helpful, please consider citing:
 
 ### Neural Scaling Laws
 * Neural Scaling Laws for Embodied AI: Neural Scaling Laws for Embodied AI [[Paper]](https://arxiv.org/abs/2405.14005)
+
 
 ### Robot Policy Learning for Decision-Making and Controls
 #### Language-Conditioned Imitation Learning
