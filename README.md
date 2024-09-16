@@ -134,6 +134,7 @@ If you find this repository helpful, please consider citing:
 * Large Language Models as General Pattern Machines [[Paper]](https://arxiv.org/abs/2307.04721)
 * Chain-of-Thought Predictive Control [[Paper]](https://arxiv.org/abs/2304.00776)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
+* ICRT: In-Context Imitation Learning via Next-Token Prediction [[Paper]](https://arxiv.org/abs/2408.15980) [[Project]](https://icrt.dev/) [[Code]](https://github.com/Max-Fu/icrt)
 
 ### Open-Vocabulary Robot Navigation and Manipulation
 * CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [[Paper]](https://arxiv.org/pdf/2203.10421.pdf)[[Project]](https://cow.cs.columbia.edu/)[[Code]]()
