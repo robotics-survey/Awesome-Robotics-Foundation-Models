@@ -54,6 +54,17 @@ Mac Schwager
 <br />
 
 If you find this repository helpful, please consider citing:
+```bibtex
+@article{firoozi2024foundation,
+  title={Foundation Models in Robotics: Applications, Challenges, and the Future},
+  author={Firoozi, Roya and Tucker, Johnathan and Tian, Stephen and Majumdar, Anirudha and Sun, Jiankai and Liu, Weiyu and Zhu, Yuke and Song, Shuran and Kapoor, Ashish and Hausman, Karol and others},
+  doi:10.1177/02783649241281508
+  journal={The International Journal of Robotics Research},
+  year={2024}, 
+  doi= {https://doi.org/10.1177/02783649241281508}
+}
+```
+
 
 ```bibtex
 @article{firoozi2023foundation,
@@ -63,6 +74,7 @@ If you find this repository helpful, please consider citing:
   year={2023}
 }
 ```
+
 
 ## Robotics
 
