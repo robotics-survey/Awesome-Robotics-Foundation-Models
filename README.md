@@ -117,6 +117,7 @@ If you find this repository helpful, please consider citing:
 * An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/pdf/2311.12871.pdf)[[Project]](https://embodied-generalist.github.io/)[[Code]](https://github.com/embodied-generalist/embodied-generalist)
 * LLM+P: Empowering Large Language Models with Optimal Planning Proficiency [[Paper]](https://arxiv.org/pdf/2304.11477.pdf)[[Code]](https://github.com/Cranial-XIX/llm-pddl)
 * MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [[Paper]](https://arxiv.org/pdf/2312.07472.pdf)[[Project]](https://iranqin.github.io/MP5.github.io/)[[Code]](https://github.com/IranQin/MP5)
+* Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Paper]](https://arxiv.org/abs/2412.04455) [[Project]](https://zhoues.github.io/Code-as-Monitor/)
 
 ### LLM-Based Code Generation
 * ProgPrompt: Generating Situated Robot Task Plans using Large Language Models [[Paper]](https://arxiv.org/abs/2209.11302)[[Project]](https://progprompt.github.io/)
