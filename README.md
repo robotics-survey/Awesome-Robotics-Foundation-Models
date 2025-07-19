@@ -230,6 +230,7 @@ If you find this repository helpful, please consider citing:
 * SQA3D: Situated Question Answering in 3D Scenes [[Paper]](https://arxiv.org/pdf/2210.07474.pdf)[[Project]](https://sqa3d.github.io/)[[Code]](https://github.com/SilongYong/SQA3D)
 * MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [[Paper]](https://arxiv.org/pdf/2312.07472.pdf)[[Project]](https://iranqin.github.io/MP5.github.io/)[[Code]](https://github.com/IranQin/MP5)
 * MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control [[Paper]](https://arxiv.org/pdf/2403.12037.pdf)[[Project]](https://sites.google.com/view/minedreamer/main)[[Code]](https://github.com/Zhoues/MineDreamer)
+* RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics [[Paper]](https://arxiv.org/pdf/2506.04308)[[Code]](https://github.com/Zhoues/RoboRefer)
 
 ### Generalist AI
 * Generative Agents: Interactive Simulacra of Human Behavior [[Paper]](https://arxiv.org/abs/2304.03442)
